@@ -19,7 +19,7 @@ lazy-object-proxy==1.4.3
 markdown2==2.3.9
 mccabe==0.6.1
 mistune==0.8.4
-mysqlclient==1.4.6
+
 Pillow==7.1.2
 Pygments==2.6.1
 pylint==2.5.2
